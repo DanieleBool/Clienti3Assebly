@@ -1,0 +1,12 @@
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\bin\Debug\net6.0\ClientiLibrary.deps.json
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\bin\Debug\net6.0\ClientiLibrary.dll
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\bin\Debug\net6.0\ClientiLibrary.pdb
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.csproj.AssemblyReference.cache
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.AssemblyInfoInputs.cache
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.AssemblyInfo.cs
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.dll
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\refint\ClientiLibrary.dll
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ClientiLibrary.pdb
+C:\Users\d.dieleuterio\source\repos\ClientiLibrary\ClientiLibrary\obj\Debug\net6.0\ref\ClientiLibrary.dll
